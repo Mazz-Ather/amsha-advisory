@@ -1,0 +1,51 @@
+IyBTZWUgaHR0cHM6Ly9oZWxwLmdpdGh1Yi5jb20vYXJ0aWNsZXMvaWdub3JpbmctZmlsZXMvIGZvciBtb3JlIGFib3V0IGlnbm9yaW5nIGZpbGVzLgoKIyBkZXBlbmRlbmNpZXMKL25vZGVfbW9kdWxlcwovLnBucAoucG5wLioKLnlhcm4vKgohLnlhcm4vcGF0Y2hlcwohLnlhcm4vcGx1Z2lucwohLnlhcm4vcmVsZWFzZXMKIS55YXJuL3ZlcnNpb25zCgojIHRlc3RpbmcKL2NvdmVyYWdlCgojIG5leHQuanMKLy5uZXh0Lwovb3V0LwoKIyBwcm9kdWN0aW9uCi9idWlsZAoKIyBtaXNjCi5EU19TdG9yZQoqLnBlbQoKIyBkZWJ1ZwpucG0tZGVidWcubG9nKgp5YXJuLWRlYnVnLmxvZyoKeWFybi1lcnJvci5sb2cqCi5wbnBtLWRlYnVnLmxvZyoKCiMgZW52IGZpbGVzIChjYW4gb3B0LWluIGZvciBjb21taXR0aW5nIGlmIG5lZWRlZCkKLmVudioKCiMgdmVyY2VsCi52ZXJjZWwKCiMgdHlwZXNjcmlwdAoqLnRzYnVpbGRpbmZvCm5leHQtZW52LmQudHMK
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Next.js build output
+/.next/
+/out/
+
+# Production build
+/build
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local env files
+.env*.local
+.env
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Testing
+/coverage
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# Cache
+.cache/
